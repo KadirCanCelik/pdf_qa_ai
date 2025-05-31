@@ -12,3 +12,7 @@ The revolution also transformed transportation. The construction of railways and
 Socially, the Industrial Revolution brought both progress and challenges. While it created new job opportunities and increased productivity, it also led to harsh working conditions, child labor, and significant income inequality. These issues eventually sparked social reforms and the rise of labor unions.
 In addition, the revolution had a lasting impact on education, science, and the global economy. It marked the beginning of a shift from agrarian societies to industrialized, urban economies, laying the foundation for the modern world.
 Overall, the Industrial Revolution was a transformative era that reshaped nearly every aspect of human life, and its influence is still felt today.
+
+# example Q-A
+Q: What invention did James Watt create?
+A: the steam engine
